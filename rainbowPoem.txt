@@ -1,4 +1,4 @@
 text goes here
 type whatever you want
-it's a .txt file! 
+it's a .txt file!
 it handles raw text!
