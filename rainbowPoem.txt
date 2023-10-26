@@ -3,3 +3,5 @@ type whatever you want
 it's a .txt file!
 it handles raw text!
 You can edit files!
+
+If you want multiple versions, or to try different paths, you can create branches!
