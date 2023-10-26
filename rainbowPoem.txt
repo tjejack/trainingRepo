@@ -10,3 +10,4 @@ You can edit files!
 If you want multiple versions, or to try different paths, you can create branches!
 
 If you want to reference an issue, simply put the #issue number in the comment!
+If you write 'fixes #number' in the title of your commit comment the issue will be closed automatically! (Can be reopened any time in issues tab)
